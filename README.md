@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ![github-stats](https://github-readme-stats.vercel.app/api?username=lyciumlee&show_icons=true&line_height=25&hide_title=true)
 ![langs-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lyciumlee&layout=compact)
+- 📫 How to reach me: hkcoldmoon@gmail.com
+- ⚡ a rookie security researcher, CVE list : secret!.
+- 🎓 Earn the bachelor degree at University of Science and Technology of China.
