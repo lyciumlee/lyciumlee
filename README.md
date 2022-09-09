@@ -17,7 +17,21 @@ Here are some ideas to get you started:
 
 ![github-stats](https://github-readme-stats.vercel.app/api?username=lyciumlee&show_icons=true&line_height=25&hide_title=true)
 ![langs-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lyciumlee&layout=compact)
+
+## contact way
 - 📫 How to reach me: hkcoldmoon@gmail.com
-- ⚡ a rookie security researcher, CVE list : secret!.
+
+## education
+
 - 🎓 Earn the bachelor degree at University of Science and Technology of China.
 - 🎓 A doctoral student at institute of information engineering chinese academy of sciences.
+
+## publishments
+
+- 《Private and Fast Routing in Credit NetworksPrivate and Fast Routing in Credit Networks》
+  - 2020 International Conference on Networking and Network Applications (NaNA2020) · Nov 14, 2020
+  - Jianwei Long, Chi Zhang, ** Chenyu Li ** , Lingbo Wei, Qibin Sun and Xia Zhang
+
+## achievements
+- ⚡ a rookie security researcher, CVE list : secret!.
+
