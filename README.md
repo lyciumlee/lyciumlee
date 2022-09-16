@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## publishments
 
-- 《Private and Fast Routing in Credit NetworksPrivate and Fast Routing in Credit Networks》
+- 《Private and Fast Routing in Credit Networks》
   - 2020 International Conference on Networking and Network Applications (NaNA2020) · Nov 14, 2020
   - Jianwei Long, Chi Zhang, **Chenyu Li** , Lingbo Wei, Qibin Sun and Xia Zhang
 
