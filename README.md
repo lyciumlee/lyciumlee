@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## education
 
 - 🎓 Earn the bachelor degree at University of Science and Technology of China.
-
+- 🎓 A doctoral student at institute of information engineering chinese academy of sciences.
 
 ## publishments
 
@@ -34,4 +34,8 @@ Here are some ideas to get you started:
 
 ## achievements
 - ⚡ a rookie security researcher, CVE list : secret!.
+
+## CTFs
+A member of NeSE (Never Stop Exploiting) https://nese.team/
+lycium at pwnable kr rank [lycium](https://pwnable.kr/rank.php)
 
