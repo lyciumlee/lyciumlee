@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   - 2020 International Conference on Networking and Network Applications (NaNA2020) · Nov 14, 2020
   - Jianwei Long, Chi Zhang, **Chenyu Li** , Lingbo Wei, Qibin Sun and Xia Zhang
 - 《Reverse engineering workload measure based on function classification》
-  - CSCWD 2023 . April 20, 2023
+  - International Conference on Computer Supported Cooperative Work in Design 2023 CSCWD 2023 . April 20, 2023
   - Yuan Liu, **Chenyu Li** , Zhiqiang Zheng, Qingli Guo and Xiaorui Gong
 ## achievements
 - ⚡ a rookie security researcher, CVE list : secret!.
