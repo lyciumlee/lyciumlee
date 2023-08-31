@@ -34,6 +34,9 @@ Here are some ideas to get you started:
 - 《Reverse engineering workload measure based on function classification》
   - International Conference on Computer Supported Cooperative Work in Design 2023 CSCWD 2023 . April 20, 2023
   - Yuan Liu, **Chenyu Li** , Zhiqiang Zheng, Qingli Guo and Xiaorui Gong
+- 《Unmasking Role-Play Attack Strategies in Exploiting  Decentralized Finance (DeFi) Systems》
+  - The 3rd ACM CCS Workshop on Decentralized Finance and Security (ACM DeFi 23)
+  - Weilin Li， Zhun Wang， **Chenyu Li**， Heying Chen， Taiyu Wong， Pengyu Sun，Yufei Yu，Chao Zhang
 ## achievements
 - ⚡ a rookie security researcher, CVE list : secret!.
 
