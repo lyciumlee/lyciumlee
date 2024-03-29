@@ -43,5 +43,8 @@ Here are some ideas to get you started:
 ## CTFs
 A member of NeSE (Never Stop Exploiting) https://nese.team/
 
+## honors
+- **Ethereum bounty program**'s **Execution Layer Bug Bounty leaderboard 36th** place.
+
 lycium at pwnable kr rank [lycium](https://pwnable.kr/rank.php)
 
