@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## education
 
 - 🎓 Earn the bachelor degree at University of Science and Technology of China.
-- 🎓 A doctoral student at institute of information engineering chinese academy of sciences.
+- 🎓 A blockchain PhD candidate at institute of information engineering chinese academy of sciences.
 
 ## publishments
 
